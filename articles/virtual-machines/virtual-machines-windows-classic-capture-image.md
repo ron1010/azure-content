@@ -44,7 +44,7 @@ Prior to caputuring an image of an Azure virtual machine, it is recommended the 
 
 2.	Open a Command Prompt window as an administrator.
 
-3.	Change the directory to `%windir%\system32\sysprep`, and then run sysprep.exe.
+3.	Change the directory to `%windir%\system32\sysprep\sysprep`, and then run sysprep.exe.
 
 4. 	The **System Preparation Tool** dialog box appears. Do the following:
 
